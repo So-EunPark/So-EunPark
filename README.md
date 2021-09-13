@@ -7,6 +7,9 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=So-EunPark&&show_icons=true&theme=dracula)
   
+[![Solved.ac](http://mazassumnida.wtf/api/pastel/generate_badge?boj=stellapark)](https://solved.ac/stellapark)
+  
+  
 </div>
 
 <!--
