@@ -1,6 +1,8 @@
-### Hi there 👋
+### 
 
 <div align=center>
+  
+  :octocat:  Hi there :octocat:
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSo-EunPark&count_bg=%23C8A9FF&title_bg=%23000000&icon=baidu.svg&icon_color=%23FFECA6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
